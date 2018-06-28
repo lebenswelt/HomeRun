@@ -10,6 +10,7 @@ friends, enemies, and eventually take part in a local
 
 robotics tournament.
 
+---
 
 Decision Branching follows a path that yields "upgrades" 
 
@@ -26,36 +27,36 @@ Siding with one will improve your relationship with them and hurt your
 
 relationship with the other. Also improving the tank's movement speed or firing rate.
 
-
+---
 Project Goals That Need To Be Completed
 
 
 As a Whole:
 
-Design Docs
+>Design Docs
 
-Sound and Music
+>Sound and Music
 
-Art - Otome BG and Character Art
+>Art - Otome BG and Character Art
 
-Android Control Schema
+>Android Control Schema
 
 
 Otome Half:
-
-UI
-
-Writing and Decision Trees
-
-Save System
+>
+>UI
+>
+>Writing and Decision Trees
+>
+>Save System
 
 
 RoboM*sters half:
 
-3d Models
+>3d Models
 
-Incremental Upgrade System
+>Incremental Upgrade System
 
-AI
+>AI
 
-UI
+>UI
